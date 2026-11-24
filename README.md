@@ -8,12 +8,15 @@
 
 - 💬 Ask me about **ROS 1 / ROS 2, C++, Python and Unity simulations**
 
+- 🌐 My portfolio: **[ogzhncyln.github.io](https://ogzhncyln.github.io/)**
+
 - 📫 How to reach me **oguzc.2709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ogzhncyln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ogzhncyln" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-ceylan-084204214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuzhan-ceylan-084204214" height="30" width="40" /></a>
+<a href="https://ogzhncyln.github.io/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=html" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

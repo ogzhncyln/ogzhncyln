@@ -1,6 +1,6 @@
 # Hi 👋, I'm Oğuzhan Ceylan
 
-### Robotics Software Developer | Mechatronics Engineering Student
+### Robotics Software Developer
 
 - 🔭 I'm interested in **mobile robots and autonomous vehicles**
 

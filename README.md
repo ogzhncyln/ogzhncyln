@@ -4,7 +4,7 @@
 
 - 🔭 I'm interested in **mobile robots and autonomous vehicles**
 
-- 🌱 I'm currently learning **Nav2, PlanSys2 and MoveIt**
+- 🌱 I'm currently learning **Nav2, PlanSys2 and MoveIt2**
 
 - 💬 Ask me about **ROS 1 / ROS 2, C++, Python and Unity simulations**
 
